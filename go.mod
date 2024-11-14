@@ -7,4 +7,4 @@ require (
 	github.com/aarondl/opt v0.0.0-20240623220848-083f18ab9536
 )
 
-replace github.com/aarondl/json => github.com/ProlificLabs/json-opt v0.0.1
+replace github.com/aarondl/json => github.com/ProlificLabs/json-opt v0.0.2
